@@ -6,7 +6,8 @@ uploaded to the server via XHR.
 
 # Bower Repo
 
-This repo only exists to allow installs for bower.
+This repo only exists to allow installs for bower. Bower has been discontinued
+so please only use this repo if you're maintaining a legacy project.
 
 Install like this:
 
